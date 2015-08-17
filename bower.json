@@ -9,6 +9,9 @@
     "video.mp4",
     "poster.jpg"
   ],
+  "ignore": [
+    "encode.sh"
+  ],
   "keywords": [
     "media",
     "sample",
